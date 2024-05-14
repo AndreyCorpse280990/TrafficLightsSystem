@@ -54,6 +54,7 @@ namespace TrafficLightsSystem
                 logTexBox.Text += $" {signal}";
             }
             logTexBox.AppendText(Environment.NewLine);
+
         }
     }
 }
